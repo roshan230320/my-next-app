@@ -21,8 +21,8 @@ export const storyData: StoryItem[] = [
       "What started as a normal conversation slowly became something I started waiting for every single day.",
   },
   {
-    title: "12 July 2025",
-    date: "12-07-2025",
+    title: "12 June 2025",
+    date: "12-06-2025",
     description:
       "A date I'll always remember. It became a beautiful chapter in my life.",
   },
